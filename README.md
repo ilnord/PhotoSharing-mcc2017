@@ -1,6 +1,11 @@
 # PhotoOrganizer
 
-by Group 12 (a.k.a Mysterious Mind)
+By group 12 aka:
+Kiljunen, Olli Tuomas (olli.kiljunen@aalto.fi)
+Pardo Muñoz, Edgar Ruben (edgar.pardomunoz@aalto.fi)
+Rouhiainen, Tuukka Petteri (tuukka.rouhiainen@aalto.fi)
+Saarnilehto, Ilkka Mathias (ilkka.saarnilehto@aalto.fi)
+Saminathan, Kalaiarasan (kalaiarasan.saminathan@aalto.fi)
 
 ## Build
 
